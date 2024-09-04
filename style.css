@@ -1,0 +1,41 @@
+body {
+    background-color: #f6f6f6;
+    text-align: center;
+    
+}
+
+.container {
+    padding: 20px;
+    font-family: bebas neue, sans-serif;
+    color: #ff4545;
+}
+
+h1 {
+    color: #ff4545;
+}
+
+.heart {
+    font-size: 50px;
+    color: #ff4545;
+    cursor: pointer;
+}
+
+#nao {
+    font-size: 30px;
+    color: #ff4545;
+    background-color: #f6f6f6;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    font-family: "bebas neue";
+}
+.gif{
+    width: 180px ;
+    position: relative;
+    top: 50px;
+    height: auto;
+}
+.resposta {
+    color: rgb(0, 0, 0);
+    font-family: "bebas neue";
+}
