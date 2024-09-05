@@ -1,6 +1,6 @@
 function mostrarResposta() {
     document.getElementById('resposta').style.display = 'block';
-    document.getElementById('resposta').innerHTML = 'Sim!';
+    document.getElementById('resposta').innerHTML = 'Agora me deve um beijo!';
 }
 
 function mudarPosicao() {
